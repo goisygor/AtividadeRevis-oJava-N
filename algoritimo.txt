@@ -1,0 +1,9 @@
+1° : le um numero informado pelo usuario 
+2° : se n° >10 então mostre syso"é maior que 10"
+3° if senão entao mostre ,syso"não é >10""
+
+exercicio 2
+1° ler a quantidade de hora trabalhadas no mes : 230
+2° ler o valor do salario : 12
+3° calcular a quantidade de horas extras : 30
+4° calcular o salario total: ?
